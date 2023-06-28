@@ -32,6 +32,7 @@
 
 <br clear="both">
 
+![Snake animation](https://github.com/RamildoJunior/RamildoJunior/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
