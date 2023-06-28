@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
 </div>
 
- ## Social media
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=696969&size=25&center=true&vCenter=true&width=1000&lines=Social+media)](https://git.io/typing-svg)
 <div align="center">
   <a href="https://www.instagram.com/ramildo.junior/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ramildo-junior-983aa51a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
