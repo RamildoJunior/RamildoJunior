@@ -27,7 +27,6 @@
   <a href="https://www.linkedin.com/in/ramildo-junior-983aa51a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/RamildoJunior/RamildoJunior/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
